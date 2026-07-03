@@ -13,7 +13,7 @@ const updatedProjects = [
       'Landing page for a holistic wellness brand, featuring service and product catalogs with direct WhatsApp contact for bookings and purchases.',
     isPublic: true,
     technologies: ['React', 'Next', 'Typescript'],
-    url: 'https://clickdraw-sigma.vercel.app/',
+    url: 'https://gatoverde-website.vercel.app/',
   },
   {
     title: 'click-and-draw',
