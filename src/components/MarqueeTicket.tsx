@@ -6,9 +6,9 @@ type MarqueeProps = {
 export default function Marquee({
   items = [
     "AVAILABLE FOR FREELANCE WORK",
-    "FULL-STACK ENGINEER & PIXEL LOVER",
-    "NEW ILLUSTRATIONS DROPPED IN THE GALLERY",
-    "JAVASCRIPT · REACT · NODE · GLSL · PIXEL ART",
+    "FULL-STACK ENGINEER",
+    "FRONTEND FOCUS",
+    "JAVASCRIPT · REACT · NEXT · NODE · TYPESCRIPT",
     "PHOTOGRAPHY · ILLUSTRATION · CODE",
   ],
   speed = 25,
