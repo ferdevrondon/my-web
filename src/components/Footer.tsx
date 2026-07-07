@@ -13,11 +13,19 @@ export default function Footer({ dict }: { dict: Dictionary }) {
         </div>
 
         <div className='flex gap-6 font-pixel text-xs'>
-          <a href='#' className='hover:text-accent'>
+          <a
+            target='_blank'
+            rel='noopener noreferrer'
+            href='https://github.com/ferdevrondon'
+            className='bg-terminal'>
             {t.github}
           </a>
 
-          <a href='#' className='hover:text-accent'>
+          <a
+            target='_blank'
+            rel='noopener noreferrer'
+            href='https://www.linkedin.com/in/fernandaron/'
+            className='bg-terminal'>
             {t.linkedin}
           </a>
         </div>

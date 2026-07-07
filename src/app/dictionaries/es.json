@@ -15,7 +15,7 @@
     "titleAccent": "DEVELOPER",
     "bio": "Developer full-stack con enfoque en frontend y formación en artes visuales. Creo experiencias digitales cuidadas a través de la colaboración, la curiosidad y el diseño centrado en el usuario. Creo que los mejores productos nacen de trabajar cerca de las personas detrás de las ideas.",
     "viewWork": "VER TRABAJO",
-    "sayHi": "SALUDAR"
+    "sayHi": "COMENZAR"
   },
   "marquee": [
     "DISPONIBLE PARA TRABAJO FREELANCE",
@@ -59,7 +59,7 @@
     ]
   },
   "featured": {
-    "heading": "TRABAJO_SELECCIONADO",
+    "heading": "TRABAJO_SELECCIONADOS",
     "items": [
       {
         "title": "Archival Horizons",
@@ -101,8 +101,8 @@
   },
   "contact": {
     "fileName": "contact.sh",
-    "title1": "JUGADOR DOS",
-    "title2": "BUSCANDO",
+    "title1": "BUSCANDO",
+    "title2": "JUGADOR 2",
     "description": "¿Buscas un colaborador, un nuevo proyecto o un reto creativo? Construyamos juntos experiencias digitales cuidadas."
   },
   "footer": {

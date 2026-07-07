@@ -39,11 +39,11 @@ export default function Contact({ dict }: { dict: Dictionary }) {
             <div>
               <span className='opacity-50'>$ git </span>
               <a
-                href='https://github.com/fernandaron/'
+                href='https://github.com/ferdevrondon'
                 target='_blank'
                 rel='noopener noreferrer'
                 className='underline decoration-2 underline-offset-4 hover:text-accent'>
-                github.com/fernandaron
+                github.com/ferdevrondon
               </a>
             </div>
 
