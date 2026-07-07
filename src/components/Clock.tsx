@@ -27,7 +27,7 @@ export default function Clock() {
   }, []);
 
   return (
-    <span className='ml-auto font-mono text-[10px] opacity-60 hidden sm:inline'>
+    <span className='ml-auto font-mono text-[10px] opacity-60'>
       {time}
     </span>
   );
