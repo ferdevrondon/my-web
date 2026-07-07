@@ -2,9 +2,8 @@ import type { Metadata } from "next";
 import { Silkscreen, Space_Mono, Inter } from "next/font/google";
 import "./globals.css";
 import { cn } from "@/lib/utils";
-import PixelTrail from "@/components/fancy/background/pixel-trail";
 
-const inter = Inter({subsets:['latin'],variable:'--font-sans'});
+const inter = Inter({ subsets: ['latin'], variable: '--font-sans' });
 
 const silkscreen = Silkscreen({
   variable: "--font-silkscreen",
@@ -31,10 +30,8 @@ export default function RootLayout({
 }>) {
   return (
     <html
-      lang="en"
       className={cn("h-full", "antialiased", silkscreen.variable, spaceMono.variable, "font-sans", inter.variable)}
     >
-     
       <body className="min-h-full flex flex-col">{children}</body>
     </html>
   );

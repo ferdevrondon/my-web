@@ -1,4 +1,8 @@
-export default function Contact() {
+import type { Dictionary } from '@/app/[lang]/dictionaries';
+
+export default function Contact({ dict }: { dict: Dictionary }) {
+  const t = dict.contact;
+
   return (
     <section id='contact' className='md:col-span-12 mt-16'>
       <div className='window-shadow relative overflow-hidden border-4 border-ink bg-paper p-8 md:p-12'>
@@ -7,22 +11,19 @@ export default function Contact() {
           <span className='size-3 rounded-full bg-ink'></span>
           <span className='size-3 rounded-full border-2 border-ink'></span>
 
-          <span className='ml-2 font-pixel text-xs uppercase'>contact.sh</span>
+          <span className='ml-2 font-pixel text-xs uppercase'>{t.fileName}</span>
         </header>
 
         <div className='grid items-center gap-8 md:grid-cols-2'>
           <div>
             <h2 className='mb-4 font-pixel text-4xl leading-tight md:text-5xl'>
-              LET&apos;S BUILD SOMETHING
+              {t.title1}
               <br />
-              <span className='text-accent'>STRANGELY BEAUTIFUL</span>
+              <span className='text-accent'>{t.title2}</span>
               <span className='animate-blink text-accent'>_</span>
             </h2>
 
-            <p className='max-w-sm text-sm opacity-80'>
-              Open for freelance frontend, full-stack, and creative-tech
-              collaborations. Also: illustration commissions.
-            </p>
+            <p className='max-w-sm text-sm opacity-80'>{t.description}</p>
           </div>
 
           <div className='space-y-2 font-mono text-sm'>
@@ -38,7 +39,7 @@ export default function Contact() {
             <div>
               <span className='opacity-50'>$ git </span>
               <a
-                  href='https://github.com/fernandaron/'
+                href='https://github.com/fernandaron/'
                 target='_blank'
                 rel='noopener noreferrer'
                 className='underline decoration-2 underline-offset-4 hover:text-accent'>

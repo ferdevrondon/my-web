@@ -1,0 +1,120 @@
+{
+  "meta": {
+    "title": "Fernanda Rondon — Creative Developer",
+    "description": "Portfolio of Fernanda Rondon, creative developer and designer"
+  },
+  "nav": {
+    "work": "Work",
+    "gallery": "Gallery",
+    "about": "About",
+    "contact": "CONTACT"
+  },
+  "about": {
+    "fileName": "hello_world.txt",
+    "titleLead": "Creative",
+    "titleAccent": "DEVELOPER",
+    "bio": "Full-stack developer with a frontend focus and a background in visual arts. I create thoughtful digital experiences through collaboration, curiosity, and user-centered design. I believe the best products come from working closely with the people behind the ideas.",
+    "viewWork": "VIEW WORK",
+    "sayHi": "SAY HI"
+  },
+  "marquee": [
+    "AVAILABLE FOR FREELANCE WORK",
+    "CREATIVE DEVELOPER",
+    "FULL-STACK · FRONTEND FOCUS",
+    "REACT · NEXT.JS · TYPESCRIPT · NODE",
+    "AI-ASSISTED WORKFLOWS · CREATIVE TECHNOLOGY"
+  ],
+  "work": {
+    "heading": "WORK_HISTORY",
+    "entries": "03 entries",
+    "items": [
+      {
+        "year": "2019 - 2025",
+        "title": "Frontend Engineer – Product & Team Collaboration",
+        "company": "Big Smart / Pinit",
+        "location": "Mexico City",
+        "description": "Developed key React-based frontend features and optimized workflows, worked closely with design and backend teams, collaborated across disciplines to shape product logic, and progressed into a product engineering lead role."
+      },
+      {
+        "year": "2024",
+        "title": "Web Developer",
+        "company": "New Institute / NADD",
+        "location": "Remote",
+        "description": "Development of a geolocated visual archive for the HOW DO WE REMEMBER project. Complementing the StoryMaps platform with content creation and interactive map configuration."
+      },
+      {
+        "year": "2023",
+        "title": "Web Developer",
+        "company": "Counter / Narratives Foundation",
+        "location": "Remote",
+        "description": "Developed the Archival Horizons geolocated narrative archive—a digital mapping platform preserving the oral (hi)stories of the ABCSSS islands—using custom WordPress features with JavaScript, PHP."
+      },
+      {
+        "year": "2019",
+        "title": "Junior Web Developer",
+        "company": "GAFA",
+        "location": "Mexico City",
+        "description": "Support and maintenance of existing applications as part of the development team. Handle ticket handling, resolve issues, and collaborate on visual adjustments, functional improvements."
+      }
+    ]
+  },
+  "featured": {
+    "heading": "SELECTED_WORK",
+    "items": [
+      {
+        "title": "Archival Horizons",
+        "description": "A semi open source map where the (hi)stories and perspectives of the ABCSSS (Diaspora) are at the center.",
+        "technologies": ["JavaScript", "PHP", "Wordpress", "HTML", "CSS"],
+        "url": "https://archivalhorizonsmap.com/"
+      },
+      {
+        "title": "Gato Verde",
+        "description": "Landing page for a holistic wellness brand, featuring service and product catalogs with direct WhatsApp contact for bookings and purchases.",
+        "technologies": ["React", "Next", "Typescript"],
+        "url": "https://clickdraw-sigma.vercel.app/"
+      },
+      {
+        "title": "click-and-draw",
+        "description": "This is a web tool to help you build drawing ideas! by giving you a escene to draw, ( caracther + place + action )",
+        "technologies": ["JavaScript", "HTML", "CSS"],
+        "url": "https://clickdraw-sigma.vercel.app/"
+      },
+      {
+        "title": "mxn-to-jpn",
+        "description": "A simple app to help converte MXN to JPN in case your travel to JAPAN! to make more easy keep update of the exchange rates!",
+        "technologies": ["JavaScript", "HTML", "CSS"],
+        "url": "https://ferdevrondon.github.io/converter_app/"
+      },
+      {
+        "title": "pixel-piano",
+        "description": "This is a fun, interactive virtual piano you can play right in your browser using your computer keyboard!",
+        "technologies": ["JavaScript", "HTML", "CSS"],
+        "url": "https://ferdevrondon.github.io/pixel_piano/"
+      },
+      {
+        "title": "tetris-game",
+        "description": "fun nostalgic website to play tetris",
+        "technologies": ["JavaScript", "HTML", "CSS"],
+        "url": "https://ferdevrondon.github.io/tetris-rush/"
+      }
+    ]
+  },
+  "contact": {
+    "fileName": "contact.sh",
+    "title1": "PLAYER TWO",
+    "title2": "WANTED",
+    "description": "Looking for a collaborator, a new project, or a creative challenge. Let's build thoughtful digital experiences together."
+  },
+  "footer": {
+    "stayConnected": "STAY_CONNECTED",
+    "tagline": "Let's create something strangely beautiful.",
+    "github": "GITHUB",
+    "linkedin": "LINKEDIN",
+    "copyright": "© 2026 FERNANDA_PORTFOLIO.V1_FINAL_FINAL.ZIP"
+  },
+  "profile": {
+    "alt": "life is boring",
+    "imgLabel": "img_04.png",
+    "photoLabel": "PHOTO"
+  }
+}

@@ -1,18 +1,9 @@
 type MarqueeProps = {
-  items?: string[];
-  speed?: number; // seconds
+  items: string[];
+  speed?: number;
 };
 
-export default function Marquee({
-  items = [
-    "AVAILABLE FOR FREELANCE WORK",
-    "FULL-STACK ENGINEER",
-    "FRONTEND FOCUS",
-    "JAVASCRIPT · REACT · NEXT · NODE · TYPESCRIPT",
-    "PHOTOGRAPHY · ILLUSTRATION · CODE",
-  ],
-  speed = 25,
-}: MarqueeProps) {
+export default function Marquee({ items, speed = 25 }: MarqueeProps) {
   const loopItems = [...items, ...items];
 
   return (

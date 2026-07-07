@@ -1,0 +1,120 @@
+{
+  "meta": {
+    "title": "Fernanda Rondon — Desarrolladora Creativa",
+    "description": "Portafolio de Fernanda Rondon, desarrolladora creativa y diseñadora"
+  },
+  "nav": {
+    "work": "Trabajo",
+    "gallery": "Galería",
+    "about": "Acerca",
+    "contact": "CONTACTO"
+  },
+  "about": {
+    "fileName": "hello_world.txt",
+    "titleLead": "Creative",
+    "titleAccent": "DEVELOPER",
+    "bio": "Developer full-stack con enfoque en frontend y formación en artes visuales. Creo experiencias digitales cuidadas a través de la colaboración, la curiosidad y el diseño centrado en el usuario. Creo que los mejores productos nacen de trabajar cerca de las personas detrás de las ideas.",
+    "viewWork": "VER TRABAJO",
+    "sayHi": "SALUDAR"
+  },
+  "marquee": [
+    "DISPONIBLE PARA TRABAJO FREELANCE",
+    "CREATIVE DEVELOPER",
+    "FULL-STACK · FRONTEND FOCUS",
+    "REACT · NEXT.JS · TYPESCRIPT · NODE",
+    "AI-ASSISTED WORKFLOWS · CREATIVE TECHNOLOGY"
+  ],
+  "work": {
+    "heading": "TRABAJO",
+    "entries": "03 entradas",
+    "items": [
+      {
+        "year": "2019 - 2025",
+        "title": "Ingeniera Frontend – Producto y Lider de Equipo",
+        "company": "Big Smart / Pinit",
+        "location": "Ciudad de México",
+        "description": "Desarrollé funcionalidades frontend clave con React y optimicé flujos de trabajo, trabajé codo a codo con los equipos de diseño y backend, colaboré entre disciplinas para definir la lógica del producto y fui ascendiendo a un rol de liderazgo en ingeniería de producto."
+      },
+      {
+        "year": "2024",
+        "title": "Web Developer Senior",
+        "company": "New Institute / NADD",
+        "location": "Remoto",
+        "description": "Desarrollo de un archivo visual geolocalizado para el proyecto HOW DO WE REMEMBER. Complementando la plataforma StoryMaps con creación de contenido y configuración de mapas interactivos."
+      },
+      {
+        "year": "2023",
+        "title": "Web Developer Senior",
+        "company": "Counter / Narratives Foundation",
+        "location": "Remoto",
+        "description": "Desarrollé el archivo narrativo geolocalizado Archival Horizons—una plataforma de mapas digital que preserva las historias orales de las islas ABCSSS—usando funcionalidades personalizadas de WordPress con JavaScript y PHP."
+      },
+      {
+        "year": "2019",
+        "title": "Web Developer Junior",
+        "company": "GAFA",
+        "location": "Ciudad de México",
+        "description": "Soporte y mantenimiento de aplicaciones existentes como parte del equipo de desarrollo. Gestión de tickets, resolución de incidencias y colaboración en ajustes visuales y mejoras funcionales."
+      }
+    ]
+  },
+  "featured": {
+    "heading": "TRABAJO_SELECCIONADO",
+    "items": [
+      {
+        "title": "Archival Horizons",
+        "description": "Un mapa semi de código abierto donde las historias y perspectivas de la diáspora ABCSSS están en el centro.",
+        "technologies": ["JavaScript", "PHP", "Wordpress", "HTML", "CSS"],
+        "url": "https://archivalhorizonsmap.com/"
+      },
+      {
+        "title": "Gato Verde",
+        "description": "Página de aterrizaje para una marca de bienestar holístico, con catálogos de servicios y productos y contacto directo por WhatsApp para reservas y compras.",
+        "technologies": ["React", "Next", "Typescript"],
+        "url": "https://clickdraw-sigma.vercel.app/"
+      },
+      {
+        "title": "click-and-draw",
+        "description": "Esta es una herramienta web para ayudarte a generar ideas de dibujo: te da una escena para dibujar (personaje + lugar + acción).",
+        "technologies": ["JavaScript", "HTML", "CSS"],
+        "url": "https://clickdraw-sigma.vercel.app/"
+      },
+      {
+        "title": "mxn-to-jpn",
+        "description": "Una app sencilla para convertir MXN a JPN si viajas a JAPÓN, para facilitar el seguimiento de los tipos de cambio.",
+        "technologies": ["JavaScript", "HTML", "CSS"],
+        "url": "https://ferdevrondon.github.io/converter_app/"
+      },
+      {
+        "title": "pixel-piano",
+        "description": "¡Este es un piano virtual divertido e interactivo que puedes tocar en tu navegador con el teclado de tu computadora!",
+        "technologies": ["JavaScript", "HTML", "CSS"],
+        "url": "https://ferdevrondon.github.io/pixel_piano/"
+      },
+      {
+        "title": "tetris-game",
+        "description": "Sitio web divertido y nostálgico para jugar tetris",
+        "technologies": ["JavaScript", "HTML", "CSS"],
+        "url": "https://ferdevrondon.github.io/tetris-rush/"
+      }
+    ]
+  },
+  "contact": {
+    "fileName": "contact.sh",
+    "title1": "JUGADOR DOS",
+    "title2": "BUSCANDO",
+    "description": "¿Buscas un colaborador, un nuevo proyecto o un reto creativo? Construyamos juntos experiencias digitales cuidadas."
+  },
+  "footer": {
+    "stayConnected": "MANTENTE_CONECTADO",
+    "tagline": "Creemos algo juntos.",
+    "github": "GITHUB",
+    "linkedin": "LINKEDIN",
+    "copyright": "© 2026 FERNANDA_PORTFOLIO.V1_FINAL_FINAL.ZIP"
+  },
+  "profile": {
+    "alt": "la vida es aburrida",
+    "imgLabel": "img_04.png",
+    "photoLabel": "FOTO"
+  }
+}
